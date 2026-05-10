@@ -1,0 +1,4 @@
+Python is fun
+Automation saves time
+I am learning step by step
+Files can be read with Python
