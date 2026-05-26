@@ -1,0 +1,4 @@
+Automation report.
+-----------------
+Status: Day 4 started successfully
+Skill practiced: Writing to files with Python
